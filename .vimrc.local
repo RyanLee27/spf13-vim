@@ -1,0 +1,4 @@
+set nospell
+set mouse=
+colorscheme 256-jungle
+set wrap
